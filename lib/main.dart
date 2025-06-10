@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:zanga/screens/main_screen.dart';
+import 'package:zanga/screens/chat/main_screen.dart';
 import 'screens/auth/login_screen.dart';
 import 'screens/auth/register_screen.dart';
 
